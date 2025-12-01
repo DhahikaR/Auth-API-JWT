@@ -1,0 +1,3 @@
+apis:
+  apispec.json:
+    alias: auth-api-fiber-jwt
