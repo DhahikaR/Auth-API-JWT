@@ -110,8 +110,8 @@ auth-api-jwt/
 1️⃣ Clone Repo
 
 ```bash
-git clone https://github.com/username/auth-api-jwt.git
-cd auth-api-jwt
+git clone https://github.com/username/Auth-API-JWT.git
+cd Auth-API-JWT
 ```
 
 2️⃣ Install Dependencies
