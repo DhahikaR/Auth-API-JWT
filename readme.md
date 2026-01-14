@@ -110,7 +110,7 @@ auth-api-jwt/
 1️⃣ Clone Repo
 
 ```bash
-git clone https://github.com/username/Auth-API-JWT.git
+git clone https://github.com/DhahikaR/Auth-API-JWT.git
 cd Auth-API-JWT
 ```
 
